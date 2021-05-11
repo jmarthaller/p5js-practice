@@ -1,4 +1,4 @@
-# p5js-practice
+# p5js-practice - Code As a Creative Medium
 
 A sandbox repo to learn p5.js for creative projects
 
