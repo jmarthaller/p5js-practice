@@ -7,5 +7,5 @@ function draw() {
 }
 
 function draw() {
-    line(1, 70, 1000, 70)
+    line(1, 70, 1000, 150)
   }
