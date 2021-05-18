@@ -5,3 +5,7 @@ function setup() {
 function draw() {
     background(200);
 }
+
+function draw() {
+    line(1, 70, 1000, 70)
+  }
