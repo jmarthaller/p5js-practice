@@ -26,7 +26,7 @@ function setup() {
     rect(width * 5/11, height*15/23, width * 10/13-width * 5/11, height * 22/23-height*15/23);
     
     stroke(0);
-    strokeWeight(118);
+    strokeWeight(18);
     line(0, height*10/24, width, height*10/24);
     line(0, height*15/23, width, height*15/23);
     stroke(14);
