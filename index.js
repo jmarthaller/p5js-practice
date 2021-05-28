@@ -18,7 +18,7 @@ function setup() {
     background(253);
     
     noStroke();
-    fill(231, 6, 4);
+    fill(232, 6, 4);
     rect(0, 0, width * 5/11, height*10/24);
     fill(253, 213, 4);
     rect(0, height*15/23, width * 2/19, height);
