@@ -33,5 +33,7 @@ function draw() {
   strokeWeight(14);
   line(width * 5/11+1, height * 22/23, width * 10/13-1, height * 22/23);
 }
+
+
   
   
